@@ -1,7 +1,7 @@
 <h1>Hi there! I'm 5rq, or Tokyo 👋</h1>
 
 <p align="center">
-<strong>Currently working on my fork of Raven B+, <a href="https://github.com/5rq/Raven">Raven</a></strong> <br/>
+<strong>Currently working on Private Projects</strong> <br/>
 <br/>
 </p>
 
