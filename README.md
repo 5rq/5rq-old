@@ -1,6 +1,4 @@
-<p align="center">
 <h1>Hi there! I'm 5rq, or Tokyo 👋</h1>
-</p>
 
 <p align="center">
 Currently working on my fork of Raven B+, <a href="https://github.com/5rq/Raven">Raven</a><br/>
