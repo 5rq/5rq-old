@@ -1,3 +1,4 @@
+<p align="center">
 ### Hi there! I'm 5rq, or Tokyo 👋
 
 Currently working on my fork of Raven B+, [Raven](https://github.com/5rq/Raven)<br/>
@@ -7,3 +8,4 @@ Currently working on my fork of Raven B+, [Raven](https://github.com/5rq/Raven)<
 ---
 
 <img src="https://lanyard.cnrad.dev/api/774299626697523200?hideDiscrim=true"/> <img src="https://lanyard.cnrad.dev/api/952160535493885992?hideDiscrim=true"/>
+</p>
