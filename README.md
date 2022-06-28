@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Hi there! I'm 5rq, or Tokyo 👋</h1> <img src="https://hits.link/hits?url=https://github.com/5rq&bgLeft=444444&bgRight=031e87&label=visits"/>
+<h1>Hi there! I'm 5rq, or Tokyo 👋<img src="https://hits.link/hits?url=https://github.com/5rq&bgLeft=444444&bgRight=031e87&label=visits"/></h1>
 </p>
 
 <p align="center">
