@@ -3,8 +3,11 @@
 </p>
 
 <p align="center">
-Currently working on my fork of Raven B+, [Raven](https://github.com/5rq/Raven)<br/>
+Currently working on my fork of Raven B+, <a href="https://github.com/5rq/Raven">Raven</a><br/>
 <br/>
+</p>
+
+<p align="center">
 <img src="https://hits.link/hits?url=https://github.com/5rq&bgLeft=444444&bgRight=031e87&label=visits"/>
 </p>
 
