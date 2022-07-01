@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
+<img src="https://raw.githubusercontent.com/5rq/5rq/main/wave.svg" alt=":wave:" />
 
 <p align="center">
 <strong>Currently working on Private Projects</strong> <br/>
