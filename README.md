@@ -1,11 +1,10 @@
-<img src="https://raw.githubusercontent.com/5rq/5rq/main/wave.svg" alt=":wave:" />
+<h1>👋 Hello, I'm Hyeoski!<h1/>
 
 <p align="center">
 <strong>Currently working on Private Projects</strong> <br/>
 <br/>
 </p>
-
 ---
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/774299626697523200?hideDiscrim=true"/> <img src="https://lanyard.cnrad.dev/api/952160535493885992?hideDiscrim=true"/>
+<img src="https://lanyard.cnrad.dev/api/774299626697523200?hideDiscrim=true"/>
 </p>
