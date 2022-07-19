@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Hyeoski!<h1/>
+<h1>👋 Hello, I'm Hyeoski!</h1>
 
 <p align="center">
 <strong>Currently working on Private Projects</strong> <br/>
